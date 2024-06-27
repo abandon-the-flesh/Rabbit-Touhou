@@ -3,9 +3,7 @@ Sound mod for [Rabbit &amp; Steel](https://store.steampowered.com/app/2132850/Ra
 
 ## Requirements:
 - [Reloaded-II Mod manager](https://github.com/Reloaded-Project/Reloaded-II/releases/latest)
-- [Reloaded universal redirector](https://github.com/Reloaded-Project/reloaded.universal.redirector)
-- Reloaded II Shared Lib: Reloaded.Hooks (default installation)
-
 
 ## Instructions
-Drag and Drop both rabbit.touhou and RabbitSteelModManager into the Reloaded-II mods folder.
+- Drag and Drop both rabbit.touhou and RabbitSteelModManager into the Reloaded-II mods folder.
+- [Installation video](https://youtu.be/PpiDUbMl31Y) tutorial provided by [Sheidyn](https://github.com/Sheidyn)
