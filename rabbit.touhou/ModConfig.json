@@ -1,0 +1,40 @@
+{
+  "ModId": "rabbit.touhou",
+  "ModName": "Touhou Boss Sounds",
+  "ModAuthor": "OgPZelda",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Replace enemy sfx with Touhou sfx",
+  "ModDll": "",
+  "ModIcon": "th8 cover.jpg",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [
+    "Sound Effects",
+    "Touhou",
+    "Rabbit \u0026 Steel"
+  ],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "rabbit.touhou.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "abandon-the-flesh",
+      "RepositoryName": "https://github.com/abandon-the-flesh/Rabbit-Touhou",
+      "UseReleaseTag": true,
+      "AssetFileName": "rabbit.and.touhou.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.universal.redirector",
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "rabbitsteel.exe"
+  ],
+  "ProjectUrl": "https://github.com/abandon-the-flesh/Rabbit-Touhou"
+}
